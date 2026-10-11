@@ -1,0 +1,6 @@
+{
+  "name": "Jasa Sedot WC & Saluran Mampet",
+  "description": "Layanan profesional Jasa Sedot WC, pengurasan septic tank, dan perbaikan saluran mampet dengan sistem mitra vendor terverifikasi di Banjarnegara dan sekitarnya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
