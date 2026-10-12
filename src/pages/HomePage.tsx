@@ -95,7 +95,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             <div className="lg:col-span-5 relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-white/15 bg-emerald-900/50 aspect-[4/3] lg:aspect-[4/3]">
                 <img
-                  src="https://ais-dev-zp7f46lf7qul6rufky3jpi-137331743627.asia-southeast1.run.app/uploads/1791803746434_hero_truck_clean_1791585969077_c038ec0a.jpg"
+                  src="https://ais-dev-zp7f46lf7qul6rufky3jpi-137331743627.asia-southeast1.run.app/uploads/1791844836792_hero_truck_clean__b07e12f8.jpg"
                   alt="Armada truk tangki vakum sedot WC profesional"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
